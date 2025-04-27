@@ -2,4 +2,4 @@ images:
   - name: centos-bootc
     image: ghcr.io/ublue-os/bazzite-dx-nvidia-open
     tag: stable
-    digest: sha256:830529d894495b0372593f775d194a36dc7853d77cea16f3749f5023e45012c3
+    digest: sha256:1b059f32bc642a6404c4aef28f8c36351bf359228e4d6035a4e03f578a5f7a76
