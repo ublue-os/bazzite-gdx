@@ -20,7 +20,7 @@
     {
       "automerge": true,
       "matchUpdateTypes": ["digest"],
-      "matchDepNames": ["ghcr.io/ublue-os/bazzite-dx-nvidia-open"],
+      "matchDepNames": ["ghcr.io/ublue-os/bazzite-dx-nvidia-open", "ghcr.io/ublue-os/bazzite-dx"],
     }
   ]
 }
