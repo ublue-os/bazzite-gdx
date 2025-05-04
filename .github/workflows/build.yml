@@ -10,6 +10,7 @@ on:
     paths-ignore:
       - '**/README.md'
   workflow_dispatch:
+  merge_group:
 
 env:
   IMAGE_NAME: "${{ github.event.repository.name }}"  # the name of the image produced by this build, matches repo names
