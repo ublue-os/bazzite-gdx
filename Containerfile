@@ -1,4 +1,4 @@
-FROM ghcr.io/ublue-os/bazzite-dx:latest@sha256:1f2f5391ea2af323d8698b97eeea3d05fbf17cd608de780ffd807b85946ae7c9
+FROM ghcr.io/ublue-os/bazzite-dx:latest@sha256:20f5f884a3561399a91b1347ec79dc1e7e18edf58fbfcf62d4c72a8a4c1e5b65
 
 ## Other possible base images include:
 # FROM ghcr.io/ublue-os/bazzite:stable
