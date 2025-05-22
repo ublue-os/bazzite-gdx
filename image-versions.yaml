@@ -2,4 +2,4 @@ images:
   - name: bazzite-dx
     image: ghcr.io/ublue-os/bazzite-dx-nvidia-open
     tag: stable
-    digest: sha256:844e1f4e04c47dee21beea5c832d9cee70b5a6c5d26578dbfc491abfff11b1da
+    digest: sha256:8d9caab15a466810e2d6a92dfe608334c4caf0f631ac8a8b464e0b05d7b2b75e
